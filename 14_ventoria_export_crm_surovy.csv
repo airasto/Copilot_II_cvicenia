@@ -1,0 +1,69 @@
+﻿ID;datum;Zakaznik;region;produkt;ks;suma;obchodnik;stav
+CRM-3400;11.08.2026;Kovotech Prievidza;Stred;Klima split 3.5kW;4;4 600,00 €;Simona Kubišová;Nová
+CRM-3401;2026-07-08;ZŠ Hurbanova Trenčín;Stred ;REKU 1500 Industrial;1;11480;Bednár Rastislav;fakturovana
+CRM-3402;12/7/2026;ZŠ Hurbanova Trenčín;Stred;Klima split 3.5kW;1;1.150,00;ŠIMKO, Tomáš;Fakturovaná
+CRM-3403;29. 7. 2026;Logistik Park Senec;Zapad ;Servisná prehliadka;6;EUR 720,00;martina ondrejková;Nová
+CRM-3404;16.07.26;Office Centrum Žilina;sever;Ventbox 300;3;1920.00 EUR;Simona Kubišová;Fakturovaná
+CRM-3405;09.09.2026;Optik Vízia;;REKU-400;3;11 850,00 €;Šimko Tomáš;Nová
+CRM-3406;2026-08-24;Hotel Panoráma Tatry;SEVER;KLIMA Split 7 kW;3;5103;ONDREJKOVÁ, Martina;fakturovana
+CRM-3407;28/9/2026;Tlačiareň Orbis;ZÁPAD;REKU-400;3;11.257,50;rastislav bednár;POTVRDENÁ
+CRM-3408;6. 8. 2026;Office Centrum Žilina;SEVER;REKU 400;1;EUR 3555,00;Tomáš Šimko;POTVRDENÁ
+CRM-3408;6. 8. 2026;Office Centrum Žilina;SEVER;REKU 400;1;EUR 3555,00;Tomáš Šimko;POTVRDENÁ
+CRM-3409;23.08.26;Logistik Park Senec;ZÁPAD;REKU-400;6;22515.00 EUR;Ondrejková Martina;POTVRDENÁ
+CRM-3410;13.09.2026;BioPek Nitra;Zapad ;REKU-400;6;23 700,00 €;ONDREJKOVÁ, Martina;nova
+CRM-3411;2026-07-09;Logistik Park Senec;Zapad ;Ventbox 300;4;2304;martina ondrejková;Fakturovaná
+CRM-3412;29/8/2026;Hotel Panoráma Tatry;Sever;REKU 800;3;20.160,00;Rastislav Bednár;Potvrdená
+CRM-3413;17. 7. 2026;Optik Vízia;Východ;REKU 1500 Industrial;2;EUR 20664,00;Bednár Rastislav;POTVRDENÁ
+CRM-3414;21.08.26;ZŠ Hurbanova Trenčín;Stred ;Ventbox 300;1;576.00 EUR;ONDREJKOVÁ, Martina;nova
+CRM-3415;18.08.2026;Tlačiareň Orbis;zapad;REKU 800;1;6 720,00 €;tomáš šimko;Fakturovaná
+CRM-3416;2026-09-01;Office Centrum Žilina;sever;Reku800;2;12768;Simona Kubišová;Nová
+CRM-3417;17/8/2026;Office Centrum Žilina;North;VENT BOX 600;1;980,00;;POTVRDENÁ
+CRM-3418;20. 8. 2026;Autoservis Kráľ;stred;KLIMA Split 7 kW;4;EUR 6804,00;KUBIŠOVÁ, Simona;fakturovana
+CRM-3419;26.08.26;Kovotech Prievidza;Stred;REKU-400;2;7900.00 EUR;simona kubišová;fakturovana
+CRM-3420;07.09.2026;Autoservis Kráľ;stred;Vent box 600;3;2 940,00 €;Simona Kubišová;POTVRDENÁ
+CRM-3421;2026-07-20;Penzión Lipa;Sever;VENT Box 300;2;1216;Bednár Rastislav;POTVRDENÁ
+CRM-3422;29/8/2026;BioPek Nitra;Západ;KLIMA 7kW;2;3.780,00;ŠIMKO, Tomáš;nova
+CRM-3422;29/8/2026;BioPek Nitra;Západ;KLIMA 7kW;2;3.780,00;ŠIMKO, Tomáš;nova
+CRM-3423;3. 8. 2026;BioPek Nitra;West;Reku800;3;EUR 20160,00;tomáš šimko;fakturovana
+CRM-3424;27.09.26;ZŠ Hurbanova Trenčín;STRED;REKU250;6;16473.00 EUR;Simona Kubišová;Potvrdená
+CRM-3425;22.07.2026;Hotel Panoráma Tatry;sever;REKU 1500 Industrial;3;32 718,00 €;Šimko Tomáš;POTVRDENÁ
+CRM-3426;2026-07-30;Tlačiareň Orbis;Západ;servis prehliadka;2;228;KUBIŠOVÁ, Simona;POTVRDENÁ
+CRM-3427;3/8/2026;Tlačiareň Orbis;Západ;VENT Box 600;2;1.862,00;martina ondrejková;Fakturovaná
+CRM-3428;30. 7. 2026;BioPek Nitra;West;Reku 1500 Ind.;2;EUR 22960,00;Rastislav Bednár;Fakturovaná
+CRM-3429;31.08.26;Penzión Lipa;North;Vent box 600;6;;Kubišová Simona;fakturovana
+CRM-3430;31.08.2026;Kovotech Prievidza;Stred ;Klima split 3.5kW;6;6 555,00 €;KUBIŠOVÁ, Simona;POTVRDENÁ
+CRM-3431;2026-07-11;Optik Vízia;vychod;Reku800;1;6720;simona kubišová;nova
+CRM-3432;19/7/2026;Office Centrum Žilina;sever;KLIMA Split 7 kW;4;7.182,00;Tomáš Šimko;Fakturovaná
+CRM-3433;22. 9. 2026;Autoservis Kráľ;stred;Servisná prehliadka;4;EUR 480,00;Bednár Rastislav;Fakturovaná
+CRM-3434;02.08.26;Tlačiareň Orbis;ZÁPAD;Ventbox 300;3;1920.00 EUR;ONDREJKOVÁ, Martina;fakturovana
+CRM-3434;02.08.26;Tlačiareň Orbis;ZÁPAD;Ventbox 300;3;1920.00 EUR;ONDREJKOVÁ, Martina;fakturovana
+CRM-3435;08.07.2026;Optik Vízia;vychod;Vent box 600;2;1 764,00 €;tomáš šimko;Nová
+CRM-3436;2026-07-03;BioPek Nitra;zapad;REKU 800;3;20160;Tomáš Šimko;POTVRDENÁ
+CRM-3437;18/9/2026;Optik Vízia;Východ ;REKU 400;3;11.850,00;Ondrejková Martina;Nová
+CRM-3438;8. 7. 2026;Tlačiareň Orbis;West;REKU 1500;2;EUR 22960,00;KUBIŠOVÁ, Simona;Nová
+CRM-3439;04.07.26;Autoservis Kráľ;Stred ;KLIMA 7kW;2;3780.00 EUR;martina ondrejková;Nová
+CRM-3440;01.08.2026;Optik Vízia;vychod;servis prehliadka;2;240,00 €;Rastislav Bednár;Fakturovaná
+CRM-3441;;BioPek Nitra;Západ;VENT Box 600;1;980;Bednár Rastislav;nova
+CRM-3442;8/8/2026;Autoservis Kráľ;STRED;REKU 800;4;25.536,00;ŠIMKO, Tomáš;POTVRDENÁ
+CRM-3443;29. 7. 2026;Optik Vízia;vychod;REKU 400;2;EUR 7110,00;tomáš šimko;nova
+CRM-3444;25.08.26;ZŠ Hurbanova Trenčín;STRED;Klima split 3.5kW;2;2070.00 EUR;Tomáš Šimko;Fakturovaná
+CRM-3444;25.08.26;ZŠ Hurbanova Trenčín;STRED;Klima split 3.5kW;2;2070.00 EUR;Tomáš Šimko;Fakturovaná
+CRM-3445;16.08.2026;Logistik Park Senec;Západ;VENT BOX 600;3;2 646,00 €;Bednár Rastislav;Potvrdená
+CRM-3446;2026-09-05;Office Centrum Žilina;sever;VENT Box 300;3;1920;KUBIŠOVÁ, Simona;Fakturovaná
+CRM-3447;3/8/2026;Stavby Mráz;sever;Reku 250;6;17.340,00;martina ondrejková;nova
+CRM-3448;3. 8. 2026;Fitness Aréna Košice;Východ;Reku800;3;EUR 18144,00;Martina Ondrejková;Fakturovaná
+CRM-3449;27.09.26;Kovotech Prievidza;Stred;Klima split 3.5kW;1;1092.50 EUR;Kubišová Simona;Fakturovaná
+CRM-3450;16.09.2026;Tlačiareň Orbis;Západ;reku 400;2;7 900,00 €;BEDNÁR, Rastislav;Nová
+CRM-3451;2026-08-23;Stavby Mráz;sever;Reku800;1;6720;simona kubišová;Fakturovaná
+CRM-3452;24/7/2026;Tlačiareň Orbis;ZÁPAD;;4;2.432,00;Tomáš Šimko;Nová
+CRM-3453;25. 9. 2026;Kovotech Prievidza;Stred;VENT Box 300;2;EUR 1280,00;Ondrejková Martina;Fakturovaná
+CRM-3454;03.09.26;ZŠ Hurbanova Trenčín;Stred ;REKU 1500 Industrial;3;30996.00 EUR;ŠIMKO, Tomáš;nova
+CRM-3455;22.09.2026;Fitness Aréna Košice;vychod;KLIMA Split 7 kW;3;5 103,00 €;martina ondrejková;Potvrdená
+CRM-3456;2026-07-26;Optik Vízia;vychod;REKU 800;2;12768;Simona Kubišová;Fakturovaná
+CRM-3457;19/9/2026;Optik Vízia;Východ;Ventbox 300;2;1.280,00;Kubišová Simona;Nová
+CRM-3458;24. 9. 2026;Stavby Mráz;;REKU 1500 Industrial;4;EUR 43624,00;KUBIŠOVÁ, Simona;fakturovana
+CRM-3459;04.08.26;BioPek Nitra;West;Reku 250;2;5491.00 EUR;martina ondrejková;fakturovana
+CRM-3460;05.07.2026;Stavby Mráz;SEVER;REKU 1500;2;22 960,00 €;Simona Kubišová;Fakturovaná
+CRM-3461;2026-08-30;Stavby Mráz;Sever;Servisná prehliadka;4;480;Šimko Tomáš;Potvrdená
+CRM-3462;12/7/2026;Kovotech Prievidza;Stred;Klima split 3.5kW;3;3.450,00;BEDNÁR, Rastislav;Potvrdená
+CRM-3463;19. 9. 2026;Tlačiareň Orbis;ZÁPAD;REKU-400;3;EUR 11850,00;rastislav bednár;POTVRDENÁ
